@@ -4,3 +4,6 @@
 *.png
 *.zip
 CareShift-*.json
+
+.vscode/
+local-artifacts/

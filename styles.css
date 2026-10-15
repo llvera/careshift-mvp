@@ -18,3 +18,5 @@
 .schedule .staff-cell{padding:4px 8px}
 .schedule .assign{height:auto;min-height:0;padding:5px 2px;line-height:1.35}
 #language{padding:7px 10px;border:1px solid var(--line);border-radius:7px;background:white;color:var(--ink)}
+.monthly-days{max-height:50vh;overflow:auto;margin-top:12px}.monthly-days .availability-row{padding:6px;border-bottom:1px solid var(--line);margin:0}.monthly-days .weekend{background:#e3eaf3}.monthly-days .week-end{border-bottom:3px solid #718399}.monthly-days label{min-width:100px}
+.driving-help{display:block;font-size:10px;color:#795000;background:#fff1c2;border-radius:3px;padding:2px;margin-top:3px}
